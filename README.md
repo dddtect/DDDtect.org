@@ -25,7 +25,7 @@ The detection was working in specific areas that we have trained with as flood d
 ## Contact
 
 Jaeho Choi (jaehoc@hawaii.edu)
-University of Hawaiʻi at Mānoa
-MURP Student
-Graduate Research Assistant
-National Disaster Preparedness Training Center (NDPTC)
+- University of Hawaiʻi at Mānoa
+- MURP Student
+- Graduate Research Assistant
+- National Disaster Preparedness Training Center (NDPTC)
