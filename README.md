@@ -22,4 +22,10 @@ DDDtector was used to evaluate images and video from Hurricane Ida. These items 
 
 The detection was working in specific areas that we have trained with as flood damages but with limitations of image quality and possibly the lighting situation is not ideal for detection. Continuing with more publicly available data and reinforce training, we can have improvements of the detection confidences. 
 
+## Contact
 
+Jaeho Choi (jaehoc@hawaii.edu)
+University of Hawaiʻi at Mānoa
+MURP Student
+Graduate Research Assistant
+National Disaster Preparedness Training Center (NDPTC)
