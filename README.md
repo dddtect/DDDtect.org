@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+#Disaster Damage Detector - (DDDtect.org)
 
-You can use the [editor on GitHub](https://github.com/dddtect/dddtect.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When disasters strike, it is of the utmost importance to quickly and accurately identify structures that have incurred significant damage. The purpose of this research project is to develop an automated real-time damage identification system (DDDtector) using a recursive software training process. To achieve the goals of this project, it was necessary to obtain both a suitable software package and enough data to allow the software to produce sufficiently accurate results. The researchers selected YOLOv5 (You Only Look Once) for the damage identification task, and they acquired images of the Ecuador earthquake of 2016 from Crisis Natural Language Processing (CNLP) and the Qatar Computing Research Institute at Hamed Bin Khalifa University (QCRI) (https://crisisnlp.qcri.org/).
 
 ### Markdown
 
