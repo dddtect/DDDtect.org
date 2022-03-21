@@ -18,7 +18,7 @@ During the training routine, detection accuracy was evaluated using the “inter
 
 DDDtector was used to evaluate images and video from Hurricane Ida. These items were collected by NDPTC representative Dennis Hwang in 2021. With DDDtector we were able to detect damages from 360 photos. The result images are as follows. 
 
-
+![DDDtectResults](DDDtectFieldApplication.png)
 
 The detection was working in specific areas that we have trained with as flood damages but with limitations of image quality and possibly the lighting situation is not ideal for detection. Continuing with more publicly available data and reinforce training, we can have improvements of the detection confidences. 
 
